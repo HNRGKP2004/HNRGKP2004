@@ -3,4 +3,4 @@
 - 🌱 I’m currently persuing my B-tech course in CSE from Birla Institute of Applied Sciences.
 - 💞️ I’m looking to collaborate on topics related to C/C++
 - 📫 How to reach me
--     heramb.rai@msn.com
+  heramb.rai@msn.com
